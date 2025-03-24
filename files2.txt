@@ -1,2 +1,3 @@
 this is pointed toward another.
 another bug detected and fixed.
+bug1 is fixed 
