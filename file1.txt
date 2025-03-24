@@ -1,2 +1,3 @@
 Hello this is about adding file to stagging area.
-" Modify this file here "
+" Modify this file here ".
+modification 1 has done.
