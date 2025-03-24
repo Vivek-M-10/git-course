@@ -2,3 +2,4 @@ hello ' i am learning Git and Github '
 did some change in file.txt
 modification1 in file.txt
 modification2 in file.txt
+modification 3 in file.txt
